@@ -1,0 +1,18 @@
+*{
+    padding:10px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #756AB6;
+}
+
+.container {
+    display: flex;
+    margin: 0 80px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: space-around;
+}
+.image img{
+    border: solid 2px #9FBB73;
+}
